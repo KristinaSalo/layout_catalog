@@ -1,9 +1,9 @@
 .header__logo {
   display: inline-block;
+}
 
-  &-img {
-    display: block;
-    width: $logo-size;
-    height: $logo-size;
-  }
+.header__logo-img {
+  display: block;
+  width: $logo-size;
+  height: $logo-size;
 }
